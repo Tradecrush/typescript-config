@@ -5,7 +5,7 @@
   "private": false,
   "description": "Shared TypeScript configurations for Tradecrush projects",
   "keywords": ["typescript", "config", "tradecrush"],
-  "author": "Tradecrush Team",
+  "homepage": "https://www.tradecrush.io",
   "repository": {
     "type": "git",
     "url": "https://github.com/Tradecrush/typescript-config"
