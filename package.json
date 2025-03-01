@@ -5,11 +5,10 @@
   "private": false,
   "description": "Shared TypeScript configurations for Tradecrush projects",
   "keywords": ["typescript", "config", "tradecrush"],
-  "author": "TradeCrush Team",
+  "author": "Tradecrush Team",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourname/tradecrush.git",
-    "directory": "packages/typescript-config"
+    "url": "https://github.com/Tradecrush/typescript-config",
   },
   "main": "./configs/base-ts-config.json",
   "files": [
