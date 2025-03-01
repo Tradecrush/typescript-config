@@ -1,0 +1,28 @@
+{
+  "name": "@tradecrush/typescript-config",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": false,
+  "description": "Shared TypeScript configurations for Tradecrush projects",
+  "keywords": ["typescript", "config", "tradecrush"],
+  "author": "TradeCrush Team",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/tradecrush.git",
+    "directory": "packages/typescript-config"
+  },
+  "main": "./configs/base-ts-config.json",
+  "files": [
+    "configs",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "typescript": ">=5.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
