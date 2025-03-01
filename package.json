@@ -8,7 +8,7 @@
   "author": "Tradecrush Team",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tradecrush/typescript-config",
+    "url": "https://github.com/Tradecrush/typescript-config"
   },
   "main": "./configs/base-ts-config.json",
   "files": [
